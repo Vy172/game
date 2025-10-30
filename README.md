@@ -1,0 +1,1 @@
+This project is a capybara game where your objective is to avoid the obstacle. You can make the capybar jump by pressing the space bar. I made this project because I wanted to try making a game. I made this project on VS code using javascript.
